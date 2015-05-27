@@ -1,0 +1,1 @@
+![screenshot](http://amowu.github.io/gumorning-parallax-demo/images/screenshot.gif)
